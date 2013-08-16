@@ -1,7 +1,4 @@
-cs_environment
-==============
-
-# CSEnvironment class
+# CSEnvironment
 
 Static methods to get, compare, and save the current working environment.
 For the most part, you will ever only need to use the ```is()``` method.
